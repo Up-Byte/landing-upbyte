@@ -49,7 +49,7 @@ export function ContactSection() {
                   </div>
                   <div>
                     <div className="font-semibold">Email</div>
-                    <div className="text-gray-600">contacto@upbyte.com</div>
+                    <div className="text-gray-600">up.byte1@gmail.com</div>
                   </div>
                 </div>
 
@@ -59,7 +59,7 @@ export function ContactSection() {
                   </div>
                   <div>
                     <div className="font-semibold">Teléfono</div>
-                    <div className="text-gray-600">+34 900 123 456</div>
+                    <div className="text-gray-600">+54 9 11 5720 0927</div>
                   </div>
                 </div>
 
@@ -69,7 +69,7 @@ export function ContactSection() {
                   </div>
                   <div>
                     <div className="font-semibold">Oficina</div>
-                    <div className="text-gray-600">Madrid, España</div>
+                    <div className="text-gray-600">Buenos Aires, Argentina</div>
                   </div>
                 </div>
               </div>

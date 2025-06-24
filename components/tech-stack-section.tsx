@@ -1,10 +1,10 @@
 import { Badge } from "@/components/ui/badge"
 
 const technologies = {
-  frontend: ["React", "Next.js", "Vue.js", "Angular", "TypeScript", "Tailwind CSS"],
-  backend: ["Node.js", "Python", "Java", "C#", ".NET", "Express.js"],
-  mobile: ["React Native", "Flutter", "Swift", "Kotlin"],
-  database: ["PostgreSQL", "MongoDB", "MySQL", "Redis", "Firebase"],
+  frontend: ["React", "Next.js", "TypeScript", "Bootstrap", "Tailwind CSS"],
+  backend: ["Node.js", "PHP", "Laravel", "CodeIgniter", "Python", "Django", "Java", "Express.js"],
+  mobile: ["React Native"],
+  database: ["PostgreSQL", "MongoDB", "MySQL", "Firebase"],
   cloud: ["AWS", "Azure", "Google Cloud", "Vercel", "Docker", "Kubernetes"],
   tools: ["Git", "Jenkins", "Jira", "Figma", "Postman", "VS Code"],
 }

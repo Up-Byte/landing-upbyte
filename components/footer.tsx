@@ -58,15 +58,15 @@ export function Footer() {
             <div className="space-y-3 text-gray-400">
               <div className="flex items-center">
                 <Mail className="h-4 w-4 mr-2" />
-                <span>contacto@upbyte.com</span>
+                <span>up.byte1@gmail.com</span>
               </div>
               <div className="flex items-center">
                 <Phone className="h-4 w-4 mr-2" />
-                <span>+34 900 123 456</span>
+                <span>+54 9 11 5720 0927</span>
               </div>
               <div className="flex items-center">
                 <MapPin className="h-4 w-4 mr-2" />
-                <span>Madrid, España</span>
+                <span>Buenos Aires, Argentina</span>
               </div>
             </div>
           </div>
@@ -75,7 +75,7 @@ export function Footer() {
         <Separator className="my-8 bg-gray-800" />
 
         <div className="flex flex-col md:flex-row justify-between items-center text-gray-400">
-          <p>&copy; 2024 UpByte. Todos los derechos reservados.</p>
+          <p>&copy; 2025 UpByte. Todos los derechos reservados.</p>
           <div className="flex space-x-6 mt-4 md:mt-0">
             <span className="hover:text-emerald-400 cursor-pointer">Política de Privacidad</span>
             <span className="hover:text-emerald-400 cursor-pointer">Términos de Servicio</span>
